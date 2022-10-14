@@ -52,10 +52,12 @@ When you're ready to make this README your own, just edit this file and use the 
 Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
 
 ## Name
-Choose a self-explaining name for your project.
+MS103 : SAÉ1 de Intro système par Axel Coudrot : Machine virtuelle
 
 ## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+Configuration de la machine virtuelle faite sans souçis. Idem pour l'installation des differents logiciels utiles.
+Vous trouverez dans le dossier installations applications des fichiers libre office avec les différents résultats d'installation de ces logiciels.
+Dans le dossier progpython vous trouverez différents programmes python que j'ai écris et récupéré pour tester si le language c'était bien installé.
 
 ## Badges
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
